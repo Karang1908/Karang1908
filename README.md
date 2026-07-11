@@ -64,28 +64,6 @@
 
 <br/>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/Karang1908/Oscar_MkII">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=Oscar_MkII&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Karang1908/UAE-Disaster-Predictor">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=UAE-Disaster-Predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<br/>
-<a href="https://github.com/Karang1908/GuessWho">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=GuessWho&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Karang1908/oscaralibaba">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=oscaralibaba&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Karang1908&color=58a6ff&style=flat-square&label=Profile+Views)
