@@ -21,6 +21,7 @@
 - AI Engineer & Systems Architect — I design and ship intelligent, production-grade systems
 - Currently building AI Applications and Systems that stand out
 - Always exploring the edges of ML infrastructure and distributed systems
+- I win hackathons :)
 
 <br/>
 
