@@ -19,7 +19,7 @@
 ## About Me
 
 - AI Engineer & Systems Architect — I design and ship intelligent, production-grade systems
-- I also specialize in Cybersecurity, WebDev, IoT & Robotics
+- I also specialize in Cybersecurity, WebDev, IoT & Robotics along with Embedded Systems and Hardware
 - Always exploring the edges of ML infrastructure and distributed systems
 - I win hackathons :)
 
