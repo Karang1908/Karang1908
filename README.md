@@ -30,13 +30,14 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -53,7 +54,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karang1908&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=00ff41&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com/?user=Karang1908&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=00ff41&currStreakLabel=58a6ff" />
 
 <br/>
 
@@ -67,31 +68,19 @@
 
 <div align="center">
 
-<a href="https://github.com/Karang1908/repo-one">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=repo-one&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Karang1908/Oscar_MkII">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=Oscar_MkII&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Karang1908/repo-two">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=repo-two&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Karang1908/UAE-Disaster-Predictor">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=UAE-Disaster-Predictor&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 <br/>
-<a href="https://github.com/Karang1908/repo-three">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=repo-three&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Karang1908/GuessWho">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=GuessWho&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/Karang1908/repo-four">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=repo-four&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/Karang1908/oscaralibaba">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Karang1908&repo=oscaralibaba&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-
-</div>
-
-<br/>
-
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 
 </div>
 
