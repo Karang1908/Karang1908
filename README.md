@@ -18,11 +18,9 @@
 
 ## About Me
 
-- 🧠 AI Engineer & Systems Architect — I design and ship intelligent, production-grade systems
-- 🔭 Currently building things that scale from prototype to production
-- 🌱 Always exploring the edges of ML infrastructure and distributed systems
-- 💬 Ask me about LLMs, systems design, or backend architecture
-- 📫 Reach me at: **your-email@example.com**
+- AI Engineer & Systems Architect — I design and ship intelligent, production-grade systems
+- Currently building AI Applications and Systems that stand out
+- Always exploring the edges of ML infrastructure and distributed systems
 
 <br/>
 
