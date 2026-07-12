@@ -18,7 +18,7 @@
 
 ## About Me
 
-- AI Engineer & ML Architect — I design and ship intelligent, production-grade systems
+- AI Engineer & ML Architect. I design and ship intelligent, production-grade systems
 - Currently building AI Applications and Systems that stand out
 - Always exploring the edges of ML infrastructure and distributed systems
 - I win hackathons :)
@@ -49,8 +49,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karang1908&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karang1908&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br/>
 
